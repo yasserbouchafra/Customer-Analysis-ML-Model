@@ -5,7 +5,7 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.4-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-**[Voir la Démo Live](VOTRE_LIEN_STREAMLIT_CLOUD_ICI)** - *(Lien à ajouter après le déploiement)*
+**[Voir la Démo Live](https://shoplytics-pro-analysis.streamlit.app/)**
 
 **Shoplytics Pro** est une application web d'analyse de données et de Machine Learning conçue pour les professionnels de l'e-commerce et du marketing. Elle permet de transformer des données de ventes brutes en insights stratégiques et en prédictions de comportement client, le tout via une interface intuitive et interactive.
 
