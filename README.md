@@ -135,7 +135,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👤 Auteur
 
-**[Yasser Bouchafra]**
+**Yasser Bouchafra**
 
-*   **GitHub** : [@Votre_Utilisateur_GitHub](https://github.com/yasserbouchafra)
-*   **LinkedIn** : [Votre Profil LinkedIn](https://www.linkedin.com/in/yasser-bouchafra-b1b17b313/)
+*   **GitHub** : [@yasserbouchafra](https://github.com/yasserbouchafra)
+*   **LinkedIn** : [Yasser Bouchafra](https://www.linkedin.com/in/yasser-bouchafra-b1b17b313/)
