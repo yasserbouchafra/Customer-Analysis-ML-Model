@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Bannière Shoplytics Pro">
+</p>
+
 # Shoplytics Pro 2.0 🛍️ - Plateforme d'Analyse Prédictive Client
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
