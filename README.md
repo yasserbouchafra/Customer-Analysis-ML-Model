@@ -85,8 +85,8 @@ Pour lancer ce projet en local, suivez ces étapes :
 
 1.  **Clonez le dépôt**
     ```bash
-    git clone https://github.com/VOTRE_NOM_UTILISATEUR/VOTRE_NOM_REPO.git
-    cd VOTRE_NOM_REPO
+    git clone https://github.com/yasserbouchafra/Shoplytics-Pro-Analysis-Platform.git
+    cd Shoplytics-Pro-Analysis-Platform
     ```
 
 2.  **Créez et activez un environnement virtuel** (recommandé)
@@ -135,7 +135,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## 👤 Auteur
 
-**[Votre Nom ou Pseudo]**
+**[Yasser Bouchafra]**
 
 *   **GitHub** : [@Votre_Utilisateur_GitHub](https://github.com/yasserbouchafra)
 *   **LinkedIn** : [Votre Profil LinkedIn](https://www.linkedin.com/in/yasser-bouchafra-b1b17b313/)
