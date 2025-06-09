@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Bannière Shoplytics Pro">
+  <img src="images/banner.png" alt="Bannière Shoplytics">
 </p>
 
 # Shoplytics Pro 2.0 🛍️ - Plateforme d'Analyse Prédictive Client
